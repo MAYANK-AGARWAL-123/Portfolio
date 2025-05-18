@@ -1,4 +1,5 @@
 💼 Mayank Agarwal - Personal Portfolio
+
 This is a personal portfolio website showcasing my skills, projects, and experience as a Software Engineer. Built with HTML, CSS, and JavaScript, the site provides a responsive and interactive user experience.
 
 📁 Project Structure
@@ -6,10 +7,15 @@ pgsql
 
 Portfolio/
 ├── assets/
+
 │   └── profile.jpg
+
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 ├── Mayank_Agarwal.pdf.pdf
 
 🚀 Features
